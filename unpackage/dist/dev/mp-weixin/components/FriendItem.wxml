@@ -1,0 +1,1 @@
+<view><view class="friends-item"><view class="left"><image src="../static/img/001.jpg"></image><text>1</text></view><view class="right"><view class="top"><view class="name">{{''+msg.name+''}}</view><view class="time">{{''+msg.time+''}}</view></view><view class="down"><view class="msg">{{''+msg.msg+''}}</view></view></view></view></view>
